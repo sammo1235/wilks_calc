@@ -1,4 +1,4 @@
-class WilksCalc
+class Calculator
   attr_reader :sex, :bw, :wl
 
   COEFFICIENTS = {
