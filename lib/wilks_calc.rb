@@ -1,4 +1,4 @@
-require './lib/wilks_calc/calculator'
+require 'wilks_calc/calculator'
 
 module WilksCalc
   def self.male(bodyweight, weight_lifted)
